@@ -1,2 +1,3 @@
-# music-player-interface
-Interfaz de reproductor de música
+# Music Player Interface
+Interfaz de reproductor de música  
+![Music Player Inteface](./img/music-player-interface.png)
